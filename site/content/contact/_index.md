@@ -3,9 +3,11 @@ title: "Contact"
 logo: "/img/prc-logo-only.png"
 contact_entries:
   - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+    text: "560 Old Bethpage Rd.  Plainview, NY 11803 516.931.8770"
+  - heading: foo
+    text: bar
+  - heading: baz
+    text: fleem
 ---
 
 We’d love to get in touch with you and hear your ideas and
