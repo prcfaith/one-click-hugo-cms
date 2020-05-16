@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-logo: "/img/logo.png"
+logo: "/img/prc-logo-only.png"
 contact_entries:
   - heading: Location
     text: "3153 Lynn Avenue, South San Francisco, California 94080"
