@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "plainview reformed church"
+subtitle: connecting God to people and people to God
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
