@@ -1,5 +1,5 @@
 ---
-title: Our Coffee
+title: Programs
 type: programs
 image: /img/products-jumbotron.jpg
 heading: What we offer
