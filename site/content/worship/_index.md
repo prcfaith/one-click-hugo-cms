@@ -38,12 +38,26 @@ worship:
 
     imageUrl: img/worship-1024x403.jpg
   - heading: Sunday School
-    text: >
-      Single-origin coffee is coffee grown within a single known geographic
-      origin. Sometimes, this is a single farm or a specific collection of beans
-      from a single country. The name of the coffee is then usually the place it
-      was grown to whatever degree available.
-    imageUrl: /img/about-single-origin.jpg
+    text: >+
+      Our children are a vital part of our congregation. Their energy and wonder
+      are infectious! They are an integral part of our worship, receive a
+      special message geared just for them, and then head off to Sunday school.
+
+
+      We use the Faith Alive curriculum in our Sunday school. We aim to create a safe environment where our children can express themselves, as well as question and explore how God fits into their lives.
+
+
+      Sunday School
+
+
+      Our classes are divided into age appropriate groups and are available from preschool thru high school. We provide a nursery for infants and toddlers in our Education Wing. Additionally, we offer confirmation classes (generally targeted towards students 15+ years old), so that they can continue to be faithful followers of Jesus.
+
+
+      There are no enrollment costs. ALL youth are welcome! Our Sunday school runs from Sept-June. Children can join any time.
+
+       
+
+    imageUrl: img/sundayschool.jpg
   - heading: Music
     text: >
       Sustainable agriculture is farming in sustainable ways based on an
