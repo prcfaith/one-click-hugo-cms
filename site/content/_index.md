@@ -13,8 +13,8 @@ programs:
       text: "Fellowship"
     - image: /img/illustrations-coffee-gear.svg
       text: "Outreach"
-values:
-    heading: Our values
+worship:
+    heading: Worship
     text: Mission statement goes here maybe
 ---
 

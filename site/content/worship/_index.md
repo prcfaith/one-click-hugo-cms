@@ -1,7 +1,7 @@
 ---
-title: "Values"
+title: "Worship"
 image: /img/about-jumbotron.jpg
-values:
+worship:
   - heading: "Value 1"
     text: >
       Coffee is a small tree or shrub that grows in the forest
