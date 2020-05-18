@@ -64,7 +64,7 @@ worship:
       understanding of ecosystem services, the study of relationships between
       organisms and their environment. What grows where and how it is grown are
       a matter of choice and careful consideration for nature and communities.
-    imageUrl: /img/about-sustainable-farming.jpg
+    imageUrl: img/prc_cafe.jpg
   - heading: Serrmons
     text: >
       We want to truly empower the communities that bring amazing coffee to you.
