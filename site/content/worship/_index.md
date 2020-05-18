@@ -1,6 +1,6 @@
 ---
 title: Worship
-image: /img/about-jumbotron.jpg
+image: img/worship-1024x403.jpg
 worship:
   - heading: Worship Services
     text: >+
