@@ -1,17 +1,18 @@
 ---
 title: Programs
 image: /img/Sandwiches.jpg
-heading: What we offer
-description: xxxxx  yyyyy
+heading: Heading
+description: Description
 intro:
-  blurbs: []
-  heading: ssdasd
+  blurbs:
+    - text: Optional Blurb
+      image: img/prc-banner-closeup.png
+  heading: Intro Heading
   description: |
-    xxx
+    Intro Description
 main:
-  heading: Heading
-  description: |
-    description 1 description 2 description 3
+  heading: Main Heading
+  description: Main Description
   image1:
     alt: PRC banner
     image: img/prc-banner-closeup.png
@@ -21,10 +22,18 @@ main:
   image3:
     alt: prc banner
     image: img/prc-banner-closeup.png
-testimonials: []
+testimonials:
+  - quote: optional quote
+    author: optional author
 full_image: img/prc-banner-closeup.png
 pricing:
-  heading: A
-  description: B
+  heading: pricing heading
+  description: pricing description
+  plans:
+    - plan: optional plan
+      price: optional price
+      description: optional description
+      items:
+        - optional items
 type: programs
 ---
