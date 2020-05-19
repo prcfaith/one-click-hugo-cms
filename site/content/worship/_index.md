@@ -91,7 +91,7 @@ worship:
       In addition to the music performed in our services, we also host a monthly cafe, open to the community where musicians, poets, and artists are encouraged to share their work. The event is open to people of all faiths and is a time to grow in community while enjoying wonderful music, art, and food. For more information on the cafe, click here.
 
     imageUrl: img/prc_cafe.jpg
-  - heading: Serrmons
+  - heading: Sermons
     text: ( Sermons will go here )
     imageUrl: img/revcheri.png
   - heading: Devotions
