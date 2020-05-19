@@ -59,24 +59,42 @@ worship:
 
     imageUrl: img/sundayschool.jpg
   - heading: Music
-    text: >
-      Sustainable agriculture is farming in sustainable ways based on an
-      understanding of ecosystem services, the study of relationships between
-      organisms and their environment. What grows where and how it is grown are
-      a matter of choice and careful consideration for nature and communities.
+    text: >+
+      Music is an extremely important part of our services. Through music, we
+      aim to praise God and uplift the congregation. In addition to our own
+      church Choir and Bell Choir, we occasionally bring in musicians and
+      vocalists from the community to make our worship services even richer. If
+      you would like to be a part of making music in the Plainview Reformed
+      Church, attend a rehearsal or contact our choir director. No experience is
+      required, and we would love to have you sing, dance, and play with us.
+
+
+      Rehearsal dates and times are listed on our Calendar.
+
+
+      Choir
+
+
+      The choir is under the direction of Maureen Smith Setton. The choir rehearses on Sundays at 9:30am in the Sanctuary. We are blessed with a performance by our choir during every Sunday worship service and their special holiday programs are a joy to behold.
+
+
+      Bell Choir
+
+
+      The Bell Choir is under the direction of Pastor Cheri Kroon. Rehearsals are Saturdays at 11am in the Church Sanctuary. Our bell choir performs during special holiday worship services. Our next performance will be Easter Sunday!
+
+
+
+      PRC Cafe
+
+
+      In addition to the music performed in our services, we also host a monthly cafe, open to the community where musicians, poets, and artists are encouraged to share their work. The event is open to people of all faiths and is a time to grow in community while enjoying wonderful music, art, and food. For more information on the cafe, click here.
+
     imageUrl: img/prc_cafe.jpg
   - heading: Serrmons
-    text: >
-      We want to truly empower the communities that bring amazing coffee to you.
-      That’s why we reinvest 20% of our profits into farms, local businesses and
-      schools everywhere our coffee is grown. You can see the communities grow
-      and learn more about coffee farming on our blog.
-    imageUrl: /img/about-direct-sourcing.jpg
-  - heading: Value 5
-    text: >
-      We want to truly empower the communities that bring amazing coffee to you.
-      That’s why we reinvest 20% of our profits into farms, local businesses and
-      schools everywhere our coffee is grown. You can see the communities grow
-      and learn more about coffee farming on our blog.
-    imageUrl: /img/about-reinvest-profits.jpg
+    text: ( Sermons will go here )
+    imageUrl: img/revcheri.png
+  - heading: Devotions
+    text: ( Devotions go here )
+    imageUrl: img/stainedglass.jpg
 ---
